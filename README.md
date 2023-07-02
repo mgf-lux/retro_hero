@@ -3,4 +3,4 @@ Projeto para fins educacionais sobre a utilização do da biblioteca pygame na c
 
 
 ### Based on:
-    |---> https://github.com/russs123/brawler_tut
+https://github.com/russs123/brawler_tut
