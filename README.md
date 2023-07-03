@@ -13,7 +13,7 @@
 
 ## 3. Instalação:
 
-  1. Clone o repositório git
+  1. Clone o repositório git:
 
   ```
   https://github.com/mairongui3/retro_hero
