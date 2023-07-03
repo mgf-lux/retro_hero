@@ -16,7 +16,7 @@
   1. Clone o repositório git:
 
   ```
-  https://github.com/mairongui3/retro_hero
+  https://github.com/mairongui3/retro_hero.git
   ```
 
   2. Abra o diretório do projeto
