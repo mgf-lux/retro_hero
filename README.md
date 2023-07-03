@@ -1,5 +1,5 @@
 # Retro Hero
-Projeto para fins educacionais sobre a utilização do da biblioteca pygame na criação de jogos.
+Projeto para fins educacionais sobre a utilização da biblioteca Pygame na criação de jogos.
 
 
 ### Based on:
