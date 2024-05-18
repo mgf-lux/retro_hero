@@ -25,7 +25,7 @@
 
   4. Abra o arquivo "main.py" em uma IDE e execute, ou se estiver no Windows, descompacte "retro hero (windows).zip" e clique no executável "main.exe"
 
-  5. Se divirta 👇🐐
+  5. Se divirta 🕊️
 
 ## 4. Contribuições:
 
